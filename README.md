@@ -1,0 +1,1 @@
+# V5s_N918St_KitKat_kernel_Fix_for_arm-eabi-4.8
